@@ -14,12 +14,7 @@ let questions = [
     { id: 2, question: 'Apa aksara Korea untuk huruf "ㄱ"?', answer: 'g' },
     { id: 3, question: 'Apa aksara Korea untuk huruf "ㅏ"?', answer: 'a' },
     { id: 4, question: 'Apa aksara Korea untuk huruf "ㄷ"?', answer: 'd' },
-    { id: 5, question: 'Apa aksara Korea untuk huruf "ㅅ"?', answer: 's' },
-    { id: 6, question: 'Apa aksara Korea untuk huruf "ㅈ"?', answer: 'j' },
-    { id: 7, question: 'Apa aksara Korea untuk huruf "ㅊ"?', answer: 'c' },
-    { id: 8, question: 'Apa aksara Korea untuk huruf "ㅋ"?', answer: 'k' },
-    { id: 9, question: 'Apa aksara Korea untuk huruf "ㅌ"?', answer: 't' },
-    { id: 10, question: 'Apa aksara Korea untuk huruf "ㅍ"?', answer: 'p' }
+    { id: 5, question: 'Apa aksara Korea untuk huruf "ㅅ"?', answer: 's' }
 ];
   
 let score = 0;
